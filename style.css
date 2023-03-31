@@ -1,0 +1,11 @@
+.container{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+}
+
+button{
+    border-radius: 15%;
+}
